@@ -7,11 +7,10 @@ This is a token for the ad platform ecosystem that is innovative, smart, and pro
 - Coin Name : RookieCoin
 - Symbol : RKC
 - Website : www.rookiecoin.org
-- Wallet : wallet.rookiecoin.org
+- Waves Explorer Transaction : http://wavesexplorer.com/tx/3rFzTRKtdMdRJkG8yYEnGoMfEBiHtVNfAQMqFt38AFdY
 
 ## SNS
 
 - Twitter: https://twitter.com/rookiecoin
 - Facebook : https://www.facebook.com/Rookiest-594307764050084/
-- Telegram Channel : https://t.me/rookiecoin_official
-- Telegram Group: https://t.me/joinchat/GbehEBJE6y0e4uNh_czUkQ
+- Telegram Channel : https://t.me/rookiecoin_announce
